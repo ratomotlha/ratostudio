@@ -1,0 +1,268 @@
+{
+  "entryUrl": "https://aqua-goal-324354.framer.app/",
+  "origin": "https://aqua-goal-324354.framer.app",
+  "assetMode": "hotlink",
+  "routesDiscovered": 1,
+  "pagesExported": 1,
+  "pagesFailed": 0,
+  "pages": [
+    {
+      "route": "/",
+      "filePath": "index.html",
+      "ok": true,
+      "report": {
+        "isFramerSite": true,
+        "platform": "framer",
+        "framerBuild": "95da0c7",
+        "bytesBefore": 135858,
+        "bytesAfter": 133023,
+        "removals": [
+          {
+            "kind": "tracker",
+            "detail": "Framer analytics (events.framer.com)",
+            "count": 1
+          },
+          {
+            "kind": "phone-home",
+            "detail": "Framer editor bootstrap",
+            "count": 1
+          },
+          {
+            "kind": "watermark",
+            "detail": "Framer badge container",
+            "count": 1
+          },
+          {
+            "kind": "watermark",
+            "detail": "Badge CSS rules",
+            "count": 2
+          },
+          {
+            "kind": "metadata",
+            "detail": "Search index pointer",
+            "count": 1
+          },
+          {
+            "kind": "metadata",
+            "detail": "Search index fallback pointer",
+            "count": 1
+          },
+          {
+            "kind": "metadata",
+            "detail": "Generator fingerprint",
+            "count": 1
+          },
+          {
+            "kind": "watermark",
+            "detail": "Badge suppressed by rule (runtime kept)",
+            "count": 1
+          }
+        ],
+        "breakpoints": [
+          {
+            "hash": "72rtr7",
+            "mediaQuery": "(min-width: 1315px)"
+          },
+          {
+            "hash": "lttcrf",
+            "mediaQuery": "(min-width: 810px) and (max-width: 1314.98px)"
+          },
+          {
+            "hash": "1ijxrbx",
+            "mediaQuery": "(max-width: 809.98px)"
+          }
+        ],
+        "appearIds": 0,
+        "appearRulesEmitted": 0,
+        "animatedElements": 0,
+        "scrollReveals": 0,
+        "revealGroups": 0,
+        "tickers": 0,
+        "shimBytes": 0,
+        "runtimeModules": 7,
+        "assets": [
+          {
+            "url": "https://framerusercontent.com/images/APc81TM9FFrqNDwWEp5QxdWtwU.jpeg?width=736&height=1308",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/N7f50QvA3NUGD2v0CVaAtUcT43o.jpeg?width=736&height=1104",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/mQYderjnIPza4TdTcbca3ovRA.png?width=1052&height=1008",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/AN22ox9MMTeoY2BtFOp8bXXx1oA.png?width=1254&height=1254",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/okqfugqURXHy5ADknUUeyxIUa0.jpeg?width=720&height=1280",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/Bl9XiWJvSmGDKJJlffc0lfjOvWg.jpeg?width=736&height=1307",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/UKK4yw2uIpFPPwQRFlx90e5oTRI.jpeg?width=735&height=985",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/ANP2JAsrysGdgGYobMbICP7Rw.png?width=270&height=77",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/f2rsma2sUApgLo1YfE2aFvgNVhU.png",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/AN22ox9MMTeoY2BtFOp8bXXx1oA.png",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5Plrx45yor78GsSOLXLlSo/script_main.C3-aEahN.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5Plrx45yor78GsSOLXLlSo/rolldown-runtime.Dh6celcD.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5Plrx45yor78GsSOLXLlSo/react.D20wc1Tc.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5Plrx45yor78GsSOLXLlSo/framer.BNG6M6lR.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5Plrx45yor78GsSOLXLlSo/motion.BsKFuVly.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5Plrx45yor78GsSOLXLlSo/ORGv8JUNwuf3uuIJp0fKAh1_SrtNSDxIS9A6tSQFNWQ.DWaLeHKi.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5Plrx45yor78GsSOLXLlSo/shared-lib.CVCd6M8g.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/ePuN3mCjzajIHnyCdvKBFiZkyY0.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/V3j1L0o5vPFKe26Sw4HcpXCfHo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/F3kdpd2N0cToWV5huaZjjgM.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/0iDmxkizU9goZoclqIqsV5rvETU.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/r0mv3NegmA0akcQsNFotG32Las.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/iwWTDc49ENF2tCHbqlNARXw6Ug.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Ii21jnSJkulBKsHHXKlapi7fv9w.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/6mJuEAguuIuMog10gGvH5d3cl8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/UjlFhCnUjxhNfep4oYBPqnEssyo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/DolVirEGb34pEXEp8t8FQBSK4.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/uAGjaeXPJ43m8QbDlMJFHq9tdM.woff2",
+            "kind": "font"
+          }
+        ],
+        "warnings": [
+          "Runtime kept: animations and interactions run exactly as published. The output includes the Framer bundle rather than being framework-free.",
+          "Kept #svg-templates: referenced by <use> elements."
+        ],
+        "sourceUrl": "https://aqua-goal-324354.framer.app/"
+      },
+      "internalLinksRewritten": 1,
+      "assetsLocalized": 0,
+      "formsFound": 0
+    }
+  ],
+  "totalBytesBefore": 135858,
+  "totalBytesAfter": 133023,
+  "totalArtifactsRemoved": 9,
+  "totalAnimationRules": 0,
+  "uniqueAssets": 40,
+  "assetsDownloaded": 0,
+  "assetsFailed": 0,
+  "assetBytes": 0,
+  "formsFound": 0,
+  "warnings": [
+    "Route discovery stopped at the 1-page cap; some pages may be missing.",
+    "/: Runtime kept: animations and interactions run exactly as published. The output includes the Framer bundle rather than being framework-free.",
+    "/: Kept #svg-templates: referenced by <use> elements.",
+    "No --base-url given, so canonical and og:url tags were removed. Pass your final domain to have them rewritten instead.",
+    "Assets are hotlinked from framerusercontent. Pass --offline for a fully portable package."
+  ]
+}
