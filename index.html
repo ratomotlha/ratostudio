@@ -18,7 +18,7 @@
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="preload" href="assets/fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="assets/css/style.css">
-  <script>document.documentElement.classList.add('js');</script>
+  <script>(function(d){d.classList.add('js');setTimeout(function(){if(!window.__rato)d.classList.remove('js')},4000)})(document.documentElement);</script>
 </head>
 <body>
 
@@ -347,6 +347,6 @@
   </div>
 </footer>
 
-<script type="module" src="assets/js/main.js"></script>
+<script defer src="assets/js/main.js?v=4" onerror="document.documentElement.classList.remove('js')"></script>
 </body>
 </html>
